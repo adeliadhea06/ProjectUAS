@@ -29,11 +29,4 @@ Cara Menjalankan Program :
 ### Berikut link repository github :
 
 
-
-### Live test program :
-
-
-
-Sekian penjelasan dari saya, kurang lebih nya saya mohon maaf
-
-### TERIMA KASIH
+### SEKIAN, TERIMA KASIH
