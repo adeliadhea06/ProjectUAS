@@ -24,7 +24,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut:
 
-
+[Video Youtube](https://youtu.be/ro6N_5AuPCo)
 
 ### Berikut link repository github :
 
