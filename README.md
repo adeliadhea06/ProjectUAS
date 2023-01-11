@@ -28,5 +28,6 @@ Cara Menjalankan Program :
 
 ### Berikut link repository github :
 
+[Link Github](https://github.com/adeliadhea06/ProjectUAS.git)
 
 ### SEKIAN, TERIMA KASIH
